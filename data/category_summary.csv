@@ -1,0 +1,4 @@
+Category,Subcategory,Product_Count,Avg_Price,Min_Price,Max_Price,Duplicate_Count
+Computers,Laptops,69,749.1520289855072,295.99,1799.0,0
+Computers,Tablets,21,232.03761904761905,69.99,603.99,0
+Phones,Touch,9,400.65666666666664,24.99,899.99,0
