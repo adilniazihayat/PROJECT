@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+.env
+# Project specific
+data/products.csv
+data/category_summary.csv
+# Wait, the prompt says "ensure ONLY these files are included... data/*.csv".
+# So I should NOT ignore data/*.csv.
+# "Do NOT push: .venv/, __pycache__, or binary files."
